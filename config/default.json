@@ -1,0 +1,6 @@
+{
+    "database": {
+        "dbUri": "mongodb+srv://caokuo0515:1234qwer@cluster0.oq7o9ev.mongodb.net/?retryWrites=true&w=majority",
+        "jwtSecret": "a7863e48-54ce-4bd8-a780-6dc247359d1c"
+    }
+}
